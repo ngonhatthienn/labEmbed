@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "freertos.h": "c",
+    "freertosconfig.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM3",
+  "idf.adapterTargetName": "esp32"
+}
